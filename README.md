@@ -17,3 +17,5 @@ Good luck!
 ## After
 
 <img src="goal.png" height="750px"/>
+
+Hello Class!!! This is new!
